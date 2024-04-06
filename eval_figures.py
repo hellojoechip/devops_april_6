@@ -1,6 +1,7 @@
 import glob
 import pickle
 import numpy as np
+import openai
 from matplotlib import pyplot as plt
 
 plt.figure()
